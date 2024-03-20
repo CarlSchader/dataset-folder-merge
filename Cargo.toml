@@ -1,0 +1,4 @@
+[package]
+name = "dataset-folder-merge"
+version = "0.1.0"
+edition = "2021"
